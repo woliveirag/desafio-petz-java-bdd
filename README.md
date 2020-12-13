@@ -26,8 +26,13 @@ Behavior Driven Development (BDD ou ainda, em livre tradução, Desenvolvimento 
 Site utilizado para automação:
 https://www.petz.com.br/
 
+![image](https://user-images.githubusercontent.com/73474155/102025251-75196a80-3d75-11eb-8254-88a4ce84ba67.png)
 <br>
 
 Relatório HTML
+
+![image](https://user-images.githubusercontent.com/73474155/102025316-ca557c00-3d75-11eb-8278-8abd6fa6c9c7.png)
+
+
 
 
